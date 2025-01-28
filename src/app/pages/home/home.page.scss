@@ -1,0 +1,47 @@
+.home-page {
+    --background: var(--ion-color-light);
+  
+    .hero-banner {
+      background: linear-gradient(135deg, var(--ion-color-primary), var(--ion-color-secondary));
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+      border-radius: 0 0 2rem 2rem;
+  
+      h1 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        margin: 0;
+      }
+  
+      p {
+        font-size: 1.2rem;
+        margin: 0.5rem 0 0;
+      }
+    }
+  
+    ion-card {
+      border-radius: 1rem;
+      text-align: center;
+  
+      ion-card-title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 1.2rem;
+      }
+  
+      ion-card-content {
+        font-size: 0.95rem;
+        color: var(--ion-color-medium);
+      }
+  
+      ion-icon {
+        color: var(--ion-color-primary);
+        font-size: 2rem;
+      }
+    }
+    
+  }
+  

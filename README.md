@@ -122,7 +122,7 @@ npm run ng build --prod
 2. **Errores de Capacitor**: Ejecuta `npx cap sync` para sincronizar las configuraciones de las plataformas nativas.
 
 ### **Contacto**
-Si encuentras algún problema, no dudes en ponerte en contacto a través de [GitHub Issues](https://github.com/your-repository/issues).
+Si encuentras algún problema, no dudes en ponerte en contacto a través de [GitHub Issues](https://github.com/MetalSyntax/).
 
 ---
 
